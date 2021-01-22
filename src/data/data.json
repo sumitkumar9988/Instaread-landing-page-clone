@@ -1,0 +1,88 @@
+{
+    "Header": {
+
+        "title": "Stay Curious",
+        "paragraph": "Enjoy access to bestselling book summaries and premium content from our partners, all available in 15-minute audio or text segments."
+
+    },
+    "features": [{
+            "img": "img/features/01.jpg",
+            "name": "Get Smarter",
+            "text": "Instantly unlock the knowledge contained in the world's best books."
+        },
+        {
+            "img": "img/features/02.jpg",
+            "name": "Find Inspiration",
+            "text": "Get the best ideas from leading business mavericks, health gurus, political pundits, and trailblazing scientists."
+        },
+        {
+            "img": "img/features/03.jpg",
+            "name": "On the Go",
+            "text": "Eyes on the road? Hands on the barbells? No problem: all Instareads are converted to audio for your listening pleasure."
+        }
+    ],
+    "extraFeatures": [{
+        "img": "img/features/0001.png",
+        "name": "Business ",
+        "text": "Cash in on advice from finance experts and entrepreneurs."
+    },
+    {
+        "img": "img/features/0002.png",
+        "name": "Politics",
+        "text": "Get the lowdown on gossip from the Beltway and beyond."
+    },
+    {
+        "img": "img/features/0003.png",
+        "name": "Health & Fitness",
+        "text": "Check out these tips for living longer and better."
+    },{
+        "img": "img/features/0004.png",
+        "name": "Social Sciences",
+        "text": "Understanding human behavior has never been easier."
+    },
+    {
+        "img": "img/features/0005.png",
+        "name": "Self Help",
+        "text": "Trying to get out of a rut? We'll show you the fast track."
+    },
+    {
+        "img": "img/features/0006.png",
+        "name": "History",
+        "text": "Skip the dusty stacks: we have the highlights."
+    }
+],
+    "Book": [{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+            "name": "Unlocking Android",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+            "name": "Unlocking Android",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+            "name": "Collective Intelligence",
+            "auther": "Satnam Alag"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+            "name": "Unlocking Android",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/briggs.jpg",
+            "name": "Hello! Python",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black.jpg",
+            "name": "Ruby for Rail",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/birman.jpg",
+            "name": "Building Secure and Reliable Network Applications",
+            "auther": "W. Frank Ableson"
+        },{
+            "img": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault2.jpg",
+            "name": "jQuery in Action, Second Edition",
+            "auther": "W. Frank Ableson"
+        }
+    ]
+}
